@@ -331,7 +331,7 @@ function SetupScreen({ tasks, distractions, distractionApps, onAddTask, onToggle
               type="submit"
               className="w-full bg-gradient-to-r from-purple-500 to-pink-500 py-3 rounded-xl font-bold hover:scale-105 transform transition"
             >
-              Add Task
+              Done
             </button>
           </form>
 
